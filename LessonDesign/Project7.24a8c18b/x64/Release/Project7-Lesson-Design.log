@@ -1,0 +1,24 @@
+﻿  addition.c
+  administration.c
+  create.c
+  delete.c
+  fileread.c
+  filewrite.c
+  interface.c
+  main.c
+  modification.c
+  print.c
+E:\Visual\Project7-Lesson-Design\administration.c(134,16): warning C4133: “函数”: 从“Patinet *”到“Patient *”的类型不兼容
+E:\Visual\Project7-Lesson-Design\administration.c(140,31): warning C4133: “函数”: 从“Patinet *”到“Patient *”的类型不兼容
+E:\Visual\Project7-Lesson-Design\administration.c(140,9): warning C4133: “=”: 从“Patient *”到“Patinet *”的类型不兼容
+E:\Visual\Project7-Lesson-Design\administration.c(143,2): warning C4133: “return”: 从“Patinet *”到“Patient *”的类型不兼容
+E:\Visual\Project7-Lesson-Design\filewrite.c(23,32): warning C4028: 形参 1 与声明不一致
+E:\Visual\Project7-Lesson-Design\main.c(74,36): warning C4133: “函数”: 从“Patient *”到“Patinet *”的类型不兼容
+E:\Visual\Project7-Lesson-Design\main.c(93,16): warning C4133: “函数”: 从“Drug *”到“drug *”的类型不兼容
+  sort.c
+  user.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 55 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project7-Lesson-Design.vcxproj -> E:\Visual\Project7-Lesson-Design\x64\Release\Project7-Lesson-Design.exe
